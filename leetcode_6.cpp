@@ -2,8 +2,8 @@
 #include<cmath>
 #include<vector>
 /*
-This problem can be solved by the implementation of Moore's algo and since in the question it was given that the array will always have 
-a majority element hence no need to check whether the majority element is actually present for more than n/2 times.
+This problem can be solved by Moore's voting algo and since in the question it was given that the array will always have 
+a majority element hence no need to check whether the majority element candidate is actually present for more than n/2 times.
 */
 
 using namespace std;
